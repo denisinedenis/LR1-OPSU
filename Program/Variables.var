@@ -1,0 +1,7 @@
+VAR
+	LEDout2 : BOOL;
+	LEDout3 : BOOL;
+	LEDout4 : BOOL;
+	LEDout5 : BOOL;
+	iter : INT;
+END_VAR

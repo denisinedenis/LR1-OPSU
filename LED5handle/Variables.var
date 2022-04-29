@@ -1,0 +1,3 @@
+VAR
+	LED5out : BOOL;
+END_VAR
